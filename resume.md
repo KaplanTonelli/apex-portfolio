@@ -7,8 +7,8 @@ title: Resume
 
 Boulder,Colorado
 Kaplantonelli@gmail.com 
-https://github.com/Toastfist  
-https://github.com/Toastfist/apex-portfolio
+https://github.com/KaplanTonelli 
+https://github.com/KaplanTonelli/apex-portfolio
 
 [Download a PDF version](assets/documents/firstname-lastname-resume.pdf)
 
@@ -33,7 +33,6 @@ https://github.com/Toastfist/apex-portfolio
 ### Language Skills
 - World language and proficiency 
 
-> Delete categories that do not apply. Add specific skills only when you can explain or demonstrate them.
 
 
 ## Selected Projects

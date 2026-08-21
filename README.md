@@ -4,7 +4,7 @@ This repository contains my student portfolio for the **Apex Apex Creative Compu
 
 ## Portfolio
 
-**[Open Portfolio](https://Toastfist.github.io/apex-portfolio/)**
+**[Open Portfolio](https://KaplanTonelli.github.io/apex-portfolio/)**
 
 ## About Me
 
