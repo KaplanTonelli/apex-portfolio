@@ -3,9 +3,9 @@ layout: default
 title: Resume
 ---
 
-# [Student Name]
+# Kaplan Tonelli
 
-[City, State]  
+Boulder,Colorado
 [School-approved or professional email]  
 [GitHub profile link]  
 [Portfolio and/or LinkedIn link]

@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# [Student Name]
+# Kaplan Tonelli
 
 ## Apex [Creative Computing / Cybersecurity] Portfolio
 

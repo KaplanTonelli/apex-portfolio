@@ -1,14 +1,14 @@
-# Apex Portfolio - [Student Name]
+# Apex Portfolio - Kaplan Tonelli
 
-This repository contains my student portfolio for the **Apex [Creative Computing / Cybersecurity] Pathway**. The portfolio features artifacts that demonstrate my proficiency with the technical and professional skills I built in the program.
+This repository contains my student portfolio for the **Apex Apex Creative Computing Pathway**. The portfolio features artifacts that demonstrate my proficiency with the technical and professional skills I built in the program.
 
 ## Portfolio
 
-**[Open Portfolio](https://USERNAME.github.io/REPOSITORY-NAME/)**
+**[Open Portfolio](https://Toastfist.github.io/apex-portfolio/)**
 
 ## About Me
 
-I am a student at Apex in the Boulder Valley School District, and I will graduate in [grad year]. After high school, I plan to [plans]. I am interested in [intersests]
+I am a student at Apex in the Boulder Valley School District, and I will graduate in 2028. After high school, I plan to code as i travel the world. I am interested in Guitar, VideoGames,and Coding.
 
 ## Portfolio Contents
 
@@ -18,7 +18,7 @@ I am a student at Apex in the Boulder Valley School District, and I will graduat
 
 ## Featured Skills
 
-- [Skill]
+- [Godot]
 - [Skill]
 - [Skill]
 - [Skill]
@@ -37,6 +37,6 @@ This repository does not include:
 
 ## Contact
 
-- **GitHub:** [@USERNAME](https://github.com/USERNAME)
+- **GitHub:** [@Toastfist](https://github.com/Toastfist)
 - **LinkedIn:** [Optional link]
-- **Email:** [Optional school-approved or professional email]
+- **Email:** [kaplantonelli@gmail.com]
