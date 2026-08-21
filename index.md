@@ -13,7 +13,7 @@ This site contains selected work that demonstrates my technical abilities, desig
 
 ## About Me
 
-I am interested in **Software development, game design, and micropressing programming**.
+I am interested in **Software development, game design, and microprosessing programming**.
 
 I joined the Apex **Creative Computing Pathway** because **I have always been interested in coding and game design, and want to do it as a job**.
 
