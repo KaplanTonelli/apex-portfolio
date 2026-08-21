@@ -5,7 +5,7 @@ title: Home
 
 # Kaplan Tonelli
 
-## Apex [Creative Computing] Portfolio
+## Apex Creative Computing Portfolio
 
 Welcome to my portfolio. I am an Apex student building skills in **[programming, physical computing, interactive technology, networking, system administration, and game design]**.
 

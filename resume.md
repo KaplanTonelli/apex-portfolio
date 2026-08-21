@@ -6,21 +6,21 @@ title: Resume
 # Kaplan Tonelli
 
 Boulder,Colorado
-[School-approved or professional email]  
-[GitHub profile link]  
-[Portfolio and/or LinkedIn link]
+Kaplantonelli@gmail.com 
+https://github.com/Toastfist  
+https://github.com/Toastfist/apex-portfolio
 
 [Download a PDF version](assets/documents/firstname-lastname-resume.pdf)
 
 ## Professional Summary
 
-**[Creative Computing / Cybersecurity]** student building experience in **[programming, networking, cybersecurity, system administration, interactive technology, physical computing, or another area]**. Demonstrates strengths in **[problem-solving, technical communication, collaboration, troubleshooting, design, or another strength]**. Interested in pursuing **[career, college major, certification, internship, or other goal]**.
+**Creative Computing** student building experience in **programming, networking, system administration, interactive technology, physical computing, and game design**. Demonstrates strengths in *problem-solving, technical communication, collaboration, troubleshooting, and design**. Interested in pursuing **[career, college major, certification, internship, or other goal]**.
 
 ## Skills
 
 ### Programming and Development
 
-- **Languages:** [Python, C, C++]
+- **Languages:** [Python, C, C++, Godot]
 - **Development tools:** [GitHub, Git, Visual Studio Code, Unreal Engine]
 - **Platforms:** [Linux, Windows, Arduino-compatible microcontrollers]
 
@@ -98,12 +98,12 @@ Delete this section until you have a certification, credential, or certification
 
 ## Education
 
-### [Home High School Name]
+### Boulder High School
 
-[City, State]  
-Expected graduation: [Month Year]
+Boulder, Colorado 
+Expected graduation: May 2028
 
-### Apex [Creative Computing / Cybersecurity] Pathway
+### Apex Creative Computing Pathway
 
 [Month Year]–Present
 
