@@ -6,9 +6,13 @@ title: Resume
 # Kaplan Tonelli
 
 Boulder,Colorado
-Kaplantonelli@gmail.com 
+
+Kaplantonelli@gmail.com
+
 https://github.com/KaplanTonelli 
+
 https://github.com/KaplanTonelli/apex-portfolio
+
 
 [Download a PDF version](assets/documents/firstname-lastname-resume.pdf)
 
