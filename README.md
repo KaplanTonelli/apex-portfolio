@@ -37,6 +37,6 @@ This repository does not include:
 
 ## Contact
 
-- **GitHub:** [@Toastfist](https://github.com/Toastfist)
+- **GitHub:** [@kaplantonelli](https://github.com/kaplantonelli)
 - **LinkedIn:** [Optional link]
 - **Email:** [kaplantonelli@gmail.com]
