@@ -17,7 +17,7 @@ For this Artifact I was taught how to do number conversion, and representing inf
 
 ## The Artifact
 
-!An Image of the completed knowledge check(Number_Conversion.png)
+![An Image of the completed knowledge check](Number_Conversion.png)
 
 [View the full artifact](Number_Conversion.png)
 

@@ -19,7 +19,7 @@ This artifact was me setting up a workstation, which included me being able to s
 ## The Artifact
 
 
-!An image of work station #6(workstation.jpg)
+![An image of work station #6](workstation.jpg)
 
 [View the full artifact](workstation.jpg)
 
