@@ -30,17 +30,18 @@ For this Artifact I spent time learning how to do number conversion, and represe
 
 <div class="artifact-card" markdown="1">
 
-### [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+### CS Lab Workstation
+<p class="artifact-meta">Image | August 2026</p>
 
 [Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+For this artifact 
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Collaboration</span>
+<span class="skill-tag">Responsibility and Reliability</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](artifacts/workstation/)
 
 </div>
 
