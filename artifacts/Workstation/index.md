@@ -1,63 +1,45 @@
 ---
 layout: default
-title: Artifact Name
+title: CS Lab Workstation
 ---
 
-# Artifact Name
+# CS Lab Workstation
 
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+<p class="artifact-meta">Image | August 2026</p>
 
 ## Summary
 
-[Write a short paragraph explaining what this artifact is and the context in which it was created. Include the larger project or challenge when relevant.]
 
-**Project:** [Project Name]
+This artifact was me setting up a workstation, which included me being able to set up a monitor, pc, and docking station. I worked with my partners to unbox and hook up all the components to my setup. We also worked to do a lab inventory and test everything
 
-**My role:** [Briefly describe your individual contribution, especially if this was collaborative work.]
+**Project:** CS Lab Launch
+
+**My role:** I worked with Yoav to set up station 1, 2, and 6, i helped Yoav set up the monitors, and i did a couple of the docking stations, and i worked alot on keeping tracking all the id numbers and testing things for the lab inventory
 
 ## The Artifact
 
-[Embed or link the actual artifact here.]
 
-Examples:
+!An image of work station #6(workstation.jpg)
 
-- Image or screenshot
-- PDF
-- GitHub repository
-- Program or interactive experience
-- Video demonstration
-- Network diagram
-- Technical document
-- Prototype photos
-
-![Description of artifact](ARTIFACT-IMAGE.png)
-
-[View the full artifact](LINK-TO-ARTIFACT)
+[View the full artifact](workstation.jpg)
 
 ## Skills Demonstrated
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Collaboration</span>
+<span class="skill-tag">Resposiblity</span>
+<span class="skill-tag">Reliability</span>
 
-## Tools and Technologies
-
-- [Tool, language, platform, or technology]
-- [Tool, language, platform, or technology]
-- [Tool, language, platform, or technology]
 
 ## Implementation
 
-[Explain how you created this artifact. Describe the major decisions, technical work, problem-solving, testing, troubleshooting, or revisions involved.]
 
-[Include process images if they help explain your work.]
-![Describe image](PROCESS-IMAGE.png)
+I created this artifact through learning and teamwork, I started out the progect not knowing much about how to set up a station and work together with people, but throughout the process i set up monitors, docking sttions, laptops, and did a lot of writing things down on the lab inventory sheet. I made some mistakes with the format of the ID numbers, but i went back and fixed them all and learned from my mistakes
 
 
 ## What I Learned
 
-[Describe what you learned technically or professionally and what you would do differently next time.]
 
+During this project I learned about how to set up a monitor, laptop, and docking station, i learned about how to quickly test things, i learned how to effiecienty document a ab inventory, but most of all i learned how to effectively work as a team to get things done.
 ---
 
 [Return to All Artifacts]({{ '/artifacts.html' | relative_url }})
