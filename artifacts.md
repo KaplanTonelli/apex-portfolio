@@ -33,8 +33,8 @@ For this Artifact I spent time learning how to do number conversion, and represe
 ### CS Lab Workstation
 <p class="artifact-meta">Image | August 2026</p>
 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
-For this artifact 
+
+For this artifact I set up a worksation which included assembling a monitor, connecting all the cables and cords to a docking station, and testing the laptop. I also did A lot of documentation in the lab inventory, testing things, ID numbers ect.
 
 **Skills demonstrated:**
 
