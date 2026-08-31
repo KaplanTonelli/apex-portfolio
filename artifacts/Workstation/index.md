@@ -40,6 +40,7 @@ I created this artifact through learning and teamwork, I started out the project
 
 
 During this project I learned about how to set up a monitor, laptop, and docking station, i learned about how to quickly test things, I learned how to efficient document a ab inventory, but most of all I learned how to effectively work as a team to get things done.
+
 ---
 
 [Return to All Artifacts]({{ '/artifacts.html' | relative_url }})
