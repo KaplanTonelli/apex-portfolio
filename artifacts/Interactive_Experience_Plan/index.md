@@ -42,7 +42,7 @@ I created this project by following my teachers instructions by making a copy of
 
 ## What I Learned
 
-For this project i learned A lot about the significance of planning, im happy to say that i worked on this before just diving into my project. I think next time I would not go so in depth into my flow chart as that took a lot of work and i dent think i needed to be so specific.
+For this project I learned a lot about the significance of planning, im happy to say that I worked on this before just diving into my project. I think next time I would not go so in depth into my flow chart as that took a lot of work and I don't think I needed to be so specific.
 
 ---
 
