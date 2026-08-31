@@ -41,7 +41,7 @@ For this artifact I set up a workstation which included assembling a monitor, co
 <span class="skill-tag">Collaboration</span>
 <span class="skill-tag">Responsibility and Reliability</span>
 
-[View Artifact](artifacts/workstation/)
+[View Artifact](artifacts/Workstation/)
 
 </div>
 

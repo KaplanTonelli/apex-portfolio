@@ -7,7 +7,7 @@ title: Home
 
 ## Apex Creative Computing Portfolio
 
-Welcome to my portfolio. I am an Apex student building skills in **[programming, physical computing, interactive technology, networking, system administration, and game design]**.
+Welcome to my portfolio. I am an Apex student building skills in **programming, physical computing, interactive technology, networking, system administration, and game design**.
 
 This site contains selected work that demonstrates my technical abilities, design process, problem-solving, collaboration, and growth.
 
