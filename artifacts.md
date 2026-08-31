@@ -47,17 +47,17 @@ For this artifact I set up a workstation which included assembling a monitor, co
 
 <div class="artifact-card" markdown="1">
 
-### [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+### Interactive Experience Plan
+<p class="artifact-meta">PDF | August 2026</p>
 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+For this artifact I did the planning for an interactive experience game plan, mapping out a flow chart, and writing out ideas on the pdf.
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Creative Development</span>
+<span class="skill-tag">Planning</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](artifacts/Interactive_Experience_Plan/)
 
 </div>
 
