@@ -22,7 +22,7 @@ This artifact is a PDF google docs file of my plan for my interactive experience
 
 ![Zombie survival flow chart](Zombie_survival.jpg)
 
-[View the full artifact](Zombie_survival.pdf)
+[View the full artifact](Zombie_Survival.pdf)
 
 ## Skills Demonstrated
 
