@@ -31,9 +31,8 @@ This artifact is a PDF google docs file of my plan for my interactive experience
 
 ## Tools and Technologies
 
-- [Tool, language, platform, or technology]
-- [Tool, language, platform, or technology]
-- [Tool, language, platform, or technology]
+- Draw.io
+- Google docs
 
 ## Implementation
 
