@@ -64,17 +64,17 @@ For this artifact I did the planning for an interactive experience game plan, ma
 ---
 ## All Artifacts
 
-## [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+## Interactive Experience Code
+<p class="artifact-meta">Code | September 2026</p>
 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+For this artifact I coded the entirety of the text adventure that was planned in my Interactive Epierience Plan, lots of coding, play testing and fixing errors, as well as a lot of time making it look pretty and not just a mess of code.
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Collaboration</span>
+<span class="skill-tag">Conditionals and functions</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](artifacts/Text_Adventure_Code/)
 
 
 ---

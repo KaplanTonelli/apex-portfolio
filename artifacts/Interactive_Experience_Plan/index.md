@@ -3,7 +3,7 @@ layout: default
 title: Interactive Experience Plan
 ---
 
-# Artifact Name
+# Interactive Experience Plan
 
 <p class="artifact-meta">PDF | August 2026</p>
 
