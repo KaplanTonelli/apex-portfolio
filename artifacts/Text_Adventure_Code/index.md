@@ -13,15 +13,14 @@ This artifact is all the code for my text adventure game, built off of my text a
 
 **Project:** Text Adventure Code
 
-**My role:** [Briefly describe your individual contribution, especially if this was collaborative work.]
+**My role:** My role was everything for this project, I didn't have help with anything except for people play testing my game. I did all the code, planning and bug fixing.
 
 ## The Artifact
 
-[Embed or link the actual artifact here.]
 
-![Description of artifact](ARTIFACT-IMAGE.png)
+![An image of a portion of the code](Code_image.png)
 
-[View the full artifact](LINK-TO-ARTIFACT)
+[View the full artifact](https://github.com/KaplanTonelli/Zombie-Survival)
 
 ## Skills Demonstrated
 
@@ -31,21 +30,23 @@ This artifact is all the code for my text adventure game, built off of my text a
 
 ## Tools and Technologies
 
-- [Tool, language, platform, or technology]
-- [Tool, language, platform, or technology]
-- [Tool, language, platform, or technology]
+- VS-Code
+- Github
+- Python
 
 ## Implementation
 
-[Explain how you created this artifact. Describe the major decisions, technical work, problem-solving, testing, troubleshooting, or revisions involved.]
+I first created this artifact by doing the text adventure plan which you can also find in my artifacts, I then learned how to do all the code for this specific type of game. I spent a lot of time coding, revising, coding again, and then having my friends play test it.
+After i was done with that i used MagicSchool.ai to tell me how i could make it look cleaner, polish the look up, abd  make sure there were no spelling errors.
 
-[Include process images if they help explain your work.]
-![Describe image](PROCESS-IMAGE.png)
 
 
 ## What I Learned
 
-[Describe what you learned technically or professionally and what you would do differently next time.]
+I learned a lot about the importance of planning, and a lot about Python and VS-Code coding that I didn't know before. I also learned about how to make a text adventure based game and all its elements. Lots of other new knowledge including:
+-How useful play testing is
+- How to polish and make code more understandable
+- How to get help from people working on the same project as you
 
 ---
 
