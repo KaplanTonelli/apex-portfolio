@@ -8,7 +8,7 @@ This repository contains my student portfolio for the **Apex Apex Creative Compu
 
 ## About Me
 
-I am a student at Apex in the Boulder Valley School District, and I will graduate in 2028. After high school, I plan to code as i travel the world. I am interested in Guitar, Video Games, and Coding.
+I am a student at Apex in the Boulder Valley School District, and I will graduate in 2028. After high school, I plan to code as I travel the world. I am interested in Guitar, Video Games, and Coding.
 
 ## Portfolio Contents
 

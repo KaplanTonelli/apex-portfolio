@@ -37,7 +37,7 @@ This artifact is all the code for my text adventure game, built off of my text a
 ## Implementation
 
 I first created this artifact by doing the text adventure plan which you can also find in my artifacts, I then learned how to do all the code for this specific type of game. I spent a lot of time coding, revising, coding again, and then having my friends play test it.
-After i was done with that i used MagicSchool.ai to tell me how i could make it look cleaner, polish the look up, abd  make sure there were no spelling errors.
+After I was done with that I used MagicSchool.ai to tell me how I could make it look cleaner, polish the look up, and make sure there were no spelling errors.
 
 
 
