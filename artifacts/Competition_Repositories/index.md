@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Artifact Name
+title: Competition Repositories
 ---
 
-# Artifact Name
+# Competition Repositories
 
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+<p class="artifact-meta">Code | September 2026</p>
 
 ## Summary
 

@@ -79,17 +79,18 @@ For this artifact I coded the entirety of the text adventure that was planned in
 
 ---
 
-## [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+## Competition Repositories
+<p class="artifact-meta">Code | September 2026</p>
 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+This artifact is a demonstration of my coding skills under pressure during a competition with other people, submitted you can find the complete works of all the code i did for my competition.
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Data Types</span>
+<span class="skill-tag">Competition under pressure</span>
+<span class="skill-tag">Variables</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](artifacts/Competition_Repositories/)
 
 
 ---
