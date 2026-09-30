@@ -9,7 +9,7 @@ title: Competition Repositories
 
 ## Summary
 
-This artifact is all the code from the various competitions I did, from individual and team competitions alike. I completed all the individual problems in competition 1 and 2, and for the team exercises i did an average of 3 problems for my team, in the hour time limit.
+This artifact is all the code from the various competitions I did, from individual and team competitions alike. I completed all the individual problems in competition 1 and 2, and for the team exercises I did an average of 3 problems for my team, in the hour time limit.
 
 **Project:** Competition Repositories
 
@@ -20,8 +20,8 @@ This artifact is all the code from the various competitions I did, from individu
 
 ![Description of artifact](CompCode.png)
 
-[View the full artifact](https://github.com/KaplanTonelli/Code-competition-1)
-[and](https://github.com/KaplanTonelli/Coding-competition-2)
+[Competition #1](https://github.com/KaplanTonelli/Code-competition-1)
+[Competition #2](https://github.com/KaplanTonelli/Coding-competition-2)
 
 ## Skills Demonstrated
 
@@ -31,21 +31,17 @@ This artifact is all the code from the various competitions I did, from individu
 
 ## Tools and Technologies
 
-- [Tool, language, platform, or technology]
-- [Tool, language, platform, or technology]
-- [Tool, language, platform, or technology]
+- Vscode
+- Kattis
 
 ## Implementation
 
-[Explain how you created this artifact. Describe the major decisions, technical work, problem-solving, testing, troubleshooting, or revisions involved.]
-
-[Include process images if they help explain your work.]
-![Describe image](PROCESS-IMAGE.png)
+I worked in collaboration with 2 of my friends to try and complete the coding competitions under a time crunch. 
 
 
 ## What I Learned
 
-[Describe what you learned technically or professionally and what you would do differently next time.]
+For this artifact I learned a lot about working in a team with other people collaboratively. I learned how important it is to work with other people to figure out problems and share different information and ways of doing things. I also learned more about how to code fast under a time limit, and how to move o nif you cant figure something else and let someone else handle it.
 
 ---
 
